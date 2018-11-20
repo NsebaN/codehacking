@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "*",
+    "laravel-elixir": "^5.0.0"
+  },
+  "dependencies": {
+    "laravel-elixir": "*",
+    "bootstrap-sass": "*"
+  }
+}
